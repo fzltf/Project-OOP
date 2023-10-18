@@ -1,2 +1,2 @@
 # Project-OOP
-Project OOP untuk UTS semester 2
+Project OOP UTS semester 2
